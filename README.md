@@ -167,6 +167,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This README provides a comprehensive overview of the Superhuman Verifier project, including installation instructions, usage examples, API documentation, customization options, backend integration guidance, development setup, deployment instructions, and information for contributors. You can adjust any part of this README to better fit your specific project details or preferences.
